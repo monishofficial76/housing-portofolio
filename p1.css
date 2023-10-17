@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: black;
+    margin: 0px;
+    color: white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
+    font-size: 20px;
+    
+}
+.one {
+    text-align: center;
+    padding: 35px;
+    font-size: 30px;
+    font-style: oblique;
+    background-image: url(wall1.jpeg);
+    color: whitesmoke;
+
+}
+.two {
+    margin: 1px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+      
+    color: whitesmoke;
+    background-image: url(wall1.jpeg);
+}
+.three {
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: antiquewhite;
+    background-color: black;
+    
+}
+
+
+.halftwo {
+    text-align: center;
+    padding: 50px;
+}
+.halfthree {
+    text-align: center;
+}
+.twoThird {
+    text-align: center;
+    font-size: 20px;
+}
+h1 {
+    font-size: 20px;
+}
+.blue {
+    color: blue;
+}
+.blue2 {
+    color: blue;
+}
+.blue3 {
+    color :blue;
+}
+.mmm {
+    text-align: left;
+    font-size: 25px;
+    font-style: initial;
+    background-color: black;
+    color: white;
+    
+}
+.sss {
+    font-size: 25px;
+    background-image: url(wall1.jpeg);
+}
+.gold {
+    color: rgb(253, 224, 55);
+    font-style: oblique;
+    font-size: 30px;
+}
+
+.silver {
+    color: rgb(253, 224, 55);
+    font-style: oblique;
+    font-size: 30px;
+}
+
+.bronze {
+    color: rgb(253, 224, 55);
+    font-style: oblique;
+    font-size: 30px;
+}
